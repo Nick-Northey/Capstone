@@ -1,4 +1,4 @@
-Python Game - Seinor Capstone - Knights of the Mine 
+C++ Game - Seinor Capstone - Knights of the Mine 
 Nick Northey
 
 What is Knights of the Mine:
