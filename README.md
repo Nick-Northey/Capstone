@@ -9,7 +9,7 @@ What has been done:
 - Base story created
 
 What needs to be developed:
-- Creation of Movement System for Character
+- Creation of Movement System for Character - Rough start has been acompished player can move with very basic animation.
 - Creation of Combat System
 - Creation of Mining System
 - Creation of Death System
@@ -18,3 +18,4 @@ What needs to be developed:
 - Creation of First Sub Boss
 - Creation of Final Boss
 - Creation of Communication System
+- Animate fully all Systyems
