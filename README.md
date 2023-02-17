@@ -18,3 +18,6 @@ What needs to be developed:
 - Creation of Final Boss
 - Creation of Communication System
 - fully Animate all Systyems
+
+
+Milestone 1: Video:https://mediaspace.wisconsin.edu/media/t/1_1swm7gnj
