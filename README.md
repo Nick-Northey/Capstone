@@ -13,3 +13,11 @@ What needs to be developed:
 - Creation of Final Boss
 - Creation of Communication System
 - fully Animate all Systyems
+
+
+What has been done:
+- General outline and layout created
+- Base Idea created
+- Creation of Movement System for Character - Rough start has been accomplished as player will move to where mouse was clicked.
+
+Milestone 1: Video:https://mediaspace.wisconsin.edu/media/t/1_1swm7gnj
